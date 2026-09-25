@@ -1,0 +1,19 @@
+{
+  "name": "cloud-city-design",
+  "version": "0.1.0",
+  "license": "Apache-2.0",
+  "files": {
+    "LICENSE": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+    "NOTICE": "b9fba89bb986b375fedc9ccdd0018b0b6dc5a38b8d2b3f9ea51c92a1f861183a",
+    "core.css": "a26acd4cd3f542677fac4d8b47a74faac14f9e97cac583bd1d93ca5588e41c07",
+    "fonts.css": "71aea5df9e8297d1eea20b7a78d734ffa9ff1e5b061be92d3ae84e89068aac11",
+    "fonts/OFL-Inter.txt": "262481e844521b326f5ecd053e59b98c8b2da78c8ee1bdbb6e8174305e54935a",
+    "fonts/OFL-Poppins.txt": "8503c30a4d7e09c4c09015fee42f829f18acbe6330755e9930ba50ea44eaa157",
+    "fonts/inter-latin-ext.woff2": "34b9c504cab7a73e37b746343a449132e56cf7b5481af2cb81dc74dcff25c956",
+    "fonts/inter-latin.woff2": "3100e775e8616cd2611beecfa23a4263d7037586789b43f035236a2e6fbd4c62",
+    "fonts/poppins-500-latin-ext.woff2": "af5fda16a19169e029a132374616728e1bf326d90bef5a552395c5053e21cd0f",
+    "fonts/poppins-500-latin.woff2": "cd36de204aca2d5fa263a731f7c20009b5e3d754ba1f1e03c33e93a48f3e7446",
+    "fonts/poppins-600-latin-ext.woff2": "bb1f2d582e7fba586ab70c91ef062d3becaf78b887654953863521b73665d171",
+    "fonts/poppins-600-latin.woff2": "f4e80d9dfd374d02989b87a27b5ed4cb78fbb177c27f1478e9a8b0afb7513149"
+  }
+}
